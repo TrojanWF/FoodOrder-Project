@@ -4,7 +4,7 @@
 
 Quick glance-
 
-https://github.com/user-attachments/assets/b97e0d08-7292-4cf5-95df-2198281fffe3
+https://github.com/user-attachments/assets/d58e8404-1070-4f94-b3aa-15c756fed1d8
 
 
 A restaurant ordering interface built with HTML, CSS, and JavaScript, focused on practicing DOM manipulation, event handling, and dynamic UI updates.
