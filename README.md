@@ -1,5 +1,12 @@
 # JyoJyo's Diner — Food Ordering App
 
+##Demo
+
+Quick glance-
+
+https://github.com/user-attachments/assets/b97e0d08-7292-4cf5-95df-2198281fffe3
+
+
 A restaurant ordering interface built with HTML, CSS, and JavaScript, focused on practicing DOM manipulation, event handling, and dynamic UI updates.
 
 ## About
