@@ -1,0 +1,49 @@
+<html>
+    <head>
+       <!-- font-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Smythe&display=swap" rel="stylesheet">
+
+
+       <link rel="stylesheet" href="index.css">
+
+    </head>
+    <body>
+        <header>
+            <h1 class=" header-title">JyoJyo's Diner</h1>
+            <h2 class=" header-description">The best burgers and pizzas in town.</h2>
+        </header>
+        <div class="app-container">
+            <div class="menu-list">
+                <!-- menu list comes here-->
+            </div>
+            
+            <div class="checkout-section-container">
+                <h1 class="center-align" id="checkout-heading">Your Order</h1>
+                 <div class="checkout-section">
+                    <!--checkout section comes here-->
+                </div>
+            </div>
+
+            <div class="payment-container">
+                    <h1 class="center-align">Enter card details </h1>
+                    <form class="payment-form">
+                        <input placeholder='Enter your name' type="text" id="name" name="name" required>
+
+                        <input placeholder='Enter your number' type="number" id="number" name="number" required>
+
+                        <input placeholder='Enter your CVV' type="number" id="CVV" name="CVV" required>
+                        
+                        <button class="complete-order-btn pay-btn" type="submit">Pay</button>
+                    </form>
+
+            </div>
+
+            <div class="checkout-message"></div>
+        </div>
+
+	<script src="index.js" type="module"></script>
+    </body>
+</html>
+
